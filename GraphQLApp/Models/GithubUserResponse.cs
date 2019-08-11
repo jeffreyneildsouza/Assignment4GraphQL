@@ -5,6 +5,7 @@ namespace GraphQLApp.Models
     {
         public GithubUserResponse()
         {
+
         }
     }
 }
